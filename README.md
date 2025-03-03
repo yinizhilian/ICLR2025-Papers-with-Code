@@ -1,6 +1,6 @@
 # ICLR 2024 论文和开源项目合集
 
->本仓库旨在收集ICLR最新研究进展，尤其是LLM方面，涉及NLP领域的各个方向，此项目长期不定时更新。</br>
+>本仓库旨在收集ICLR最新研究进展，尤其是LLM方面，涉及NLP领域的各个方向，此项目长期不定时更新--。</br>
 欢迎watch和fork！不过给个star⭐就更好了❤️。</br>
 知乎地址：[**ShuYini**](https://www.zhihu.com/people/wangjini521/activities)</br>
 微信公众号: [**AINLPer**（**每日更新，欢迎关注**）](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247493926&idx=1&sn=7c3af9a58296f10173b3eba3bec15137&chksm=fac07efacdb7f7ec6f879dad43d5c3dd9af8950ba65faa3cea3f8cbef8208adae2449ec29327&token=890750657&lang=zh_CN#rd)
@@ -5555,5 +5555,4 @@
 
 - Paper: [**点击下载**](https://openreview.net/attachment?id=C61sk5LsK6&name=pdf)
 - Code: [https://github.com/NUS-HPC-AI-Lab/InfoBatch](https://github.com/NUS-HPC-AI-Lab/InfoBatch)
-
 
